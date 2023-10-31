@@ -52,8 +52,13 @@
 
 ---
 
-# 📄Statistics & Visitors
+# 📄 Statistics & Visitors
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabNBar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<a href="https://github.com/GabNBar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabNBar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="150%" height="150%">
+</a>
 
-[![](https://visitcount.itsvg.in/api?id=GabNBar&icon=5&color=12&s=50)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=GabNBar&icon=5&color=12" width="150%" height="150%">
+</a>
+
