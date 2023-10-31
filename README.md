@@ -8,7 +8,7 @@
 <p align="left"> </p>
 
 ---
-📃📜📰📄📎 Projects & Repositories
+#📃📜📰📄📎 Projects & Repositories
 
 ---
 
