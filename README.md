@@ -23,6 +23,12 @@
 - <a href="https://github.com/GabNBar/be-news"> Frontend </a>
 <br /><br />
 
+> [!Descrption]  
+> Descr
+
+- <a href="https://github.com/GabNBar/be-news"> API</a><br />
+- <a href="https://github.com/GabNBar/be-news"> Frontend </a>
+<br /><br />
 ---
 
 # 💻 Tech Stack & Technologies
