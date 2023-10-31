@@ -56,6 +56,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabNBar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<a href="https://visitcount.itsvg.in" style="text-decoration: none;">
-  <img src="https://visitcount.itsvg.in/api?id=GabNBar&icon=5&color=12" alt="Visitor Counter" style="width: 150%; height: 150%;">
-</a>
+[![](https://visitcount.itsvg.in/api?id=GabNBar&icon=5&color=12&s=50)](https://visitcount.itsvg.in)
