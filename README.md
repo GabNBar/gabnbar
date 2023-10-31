@@ -8,6 +8,9 @@
 <p align="left"> </p>
 
 ---
+📃📜📰📄📎 Projects & Repositories
+
+---
 
 # 💻 Tech Stack:
 ### Frontend  
