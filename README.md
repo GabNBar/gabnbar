@@ -17,8 +17,6 @@
 - <a href="https://github.com/GabNBar/fe-news">Frontend App & Website </a>
 <br /><br />
 
-///
-
 # 💻 Tech Stack & Technologies
 ### Frontend  
 <div align="left">  
@@ -33,8 +31,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="left">  
@@ -52,12 +48,9 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
 
-///
-
 # 📄 Statistics & Visitors
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabNBar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=GabNBar&icon=5&color=12" width="25%" height="25%">
