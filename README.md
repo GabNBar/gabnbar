@@ -14,7 +14,7 @@
 > [!NOTE]  
 > A full-stack news app website inspired by a real news outlet. Functionality includes: displaying news articles, adding new articles, creating a user, user login, comments, upvoting/downvoting, and user login.
 > 
-- <a href="https://github.com/GabNBar/be-news">L Backend API</a><br />
+- <a href="https://github.com/GabNBar/be-news">Backend API</a><br />
 - <a href="https://github.com/GabNBar/fe-news">Frontend App & Website</a>
 <br /><br />
 ---
