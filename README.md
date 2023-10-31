@@ -55,10 +55,10 @@
 # 📄 Statistics & Visitors
 
 <a href="https://github.com/GabNBar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabNBar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="80%" height="80%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabNBar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" width="25%" height="25%">
 </a>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=GabNBar&icon=5&color=12" width="80%" height="80%">
+  <img src="https://visitcount.itsvg.in/api?id=GabNBar&icon=5&color=12" width="25%" height="25%">
 </a>
 
