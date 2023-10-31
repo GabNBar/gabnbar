@@ -16,6 +16,13 @@
 - <a href="https://github.com/GabNBar/fe-news">Frontend App & Website</a>
 <br /><br />
 
+> [!NOTE]  
+> Descr
+
+- <a href="https://github.com/GabNBar/be-news"> API</a><br />
+- <a href="https://github.com/GabNBar/be-news"> Frontend </a>
+<br /><br />
+
 ---
 
 # 💻 Tech Stack & Technologies
