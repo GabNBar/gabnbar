@@ -18,11 +18,10 @@
 <br /><br />
 
 # 🧠 Problem Solving & Mini-projects
-## <strong> 📚 SQL Bookshop </strong>
+ <strong> 📚 SQL Bookshop </strong>
 <br />
-
 > [!NOTE]  
-> Tasked with modernising your local bookshop's inventory records!
+> Tasked with modernizing your local bookshop's inventory records!
 
 - <a href="https://github.com/GabNBar/be-sql-bookshop">SQL Bookshop </a><br />
 <br /><br />
