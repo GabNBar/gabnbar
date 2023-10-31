@@ -9,7 +9,7 @@
 # 👨🏻‍💻 Projects & Repositories
 ## <strong> 🗞️GabNBar News📰</strong>
 <br />
-> [!ABOUT]  
+> [!NOTE]  
 > A full-stack news app website inspired by a real news outlet. Functionality includes: displaying news articles, adding new articles, creating a user, user login, comments, upvoting/downvoting, and user login.
 > 
 - <a href="https://github.com/GabNBar/be-news">Backend API</a><br />
@@ -56,5 +56,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabNBar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-
-[![](https://visitcount.itsvg.in/api?id=GabNBar&icon=5&color=12)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in" style="text-decoration: none;">
+  <img src="https://visitcount.itsvg.in/api?id=GabNBar&icon=5&color=12" alt="Visitor Counter" style="width: 150%; height: 150%;">
+</a>
