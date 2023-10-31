@@ -1,7 +1,7 @@
 ### 
-<h1 align="center">I am Gabriel N. Barta</h1>
-<a href="https://linkedin.com/in/gabriel-barta"> <img src="https://img.shields.io/badge/Gabriel%20N.%20Barta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-
+<h1 align="center"> Gabriel N. Barta </h1>
+<a align="center" href="https://linkedin.com/in/gabriel-barta"> <img src="https://img.shields.io/badge/Gabriel%20N.%20Barta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabNBar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 <p align="left"> </p>
 
