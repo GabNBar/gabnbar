@@ -9,7 +9,7 @@
 
 ---
 # 👨🏻‍💻 Projects & Repositories
-<strong> GabNBar News</strong>
+<strong> 🗞️GabNBar News📰</strong>
 <br />
 > [!NOTE]  
 > A full-stack news app website inspired by a real news outlet. Functionality includes: displaying news articles, adding new articles, creating a user, user login, comments, upvoting/downvoting, and user login.
@@ -19,7 +19,7 @@
 <br /><br />
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack & Technologies
 ### Frontend  
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -53,4 +53,8 @@
 </div>
 
 ---
+
+### 📄Statistics 
+#
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabNBar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
