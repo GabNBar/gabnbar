@@ -8,7 +8,7 @@
 <p align="left"> </p>
 
 ---
-# 📜📄 Projects & Repositories
+# 👨🏻‍💻 Projects & Repositories
 <strong> GabNBar News</strong>
 <br />
 > [!NOTE]  
@@ -19,7 +19,7 @@
 <br /><br />
 ---
 
-# 💻 ⚙️👨🏻‍💻 Tech Stack
+# 💻 Tech Stack
 ### Frontend  
 <div align="left">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -51,3 +51,6 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 </div>
+
+---
+
