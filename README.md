@@ -7,7 +7,7 @@
 
 ---
 # 👨🏻‍💻 Projects & Repositories
-## <strong> 🗞️GabNBar News📰</strong>
+## <strong> 📰 GabNBar News </strong>
 <br />
 
 > [!NOTE]  
